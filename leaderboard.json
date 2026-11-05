@@ -36,6 +36,24 @@
     "stack": "unknown"
   },
   {
+    "team": "otp-verify",
+    "score": 0,
+    "breakdown": {
+      "ac": 0,
+      "visual": 0,
+      "code": 0,
+      "build": 0,
+      "tests": 0,
+      "prompt": 0
+    },
+    "graded_at": "2026-11-05T07:52:08Z",
+    "flags": [],
+    "status": "invalid",
+    "pr": 8,
+    "updated_at": "2026-11-05T07:52:08Z",
+    "stack": "unknown"
+  },
+  {
     "team": "josendungu",
     "score": null,
     "breakdown": null,
@@ -85,15 +103,5 @@
     "status": "building",
     "pr": 7,
     "updated_at": "2026-11-05T07:51:13Z"
-  },
-  {
-    "team": "otp-verify",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "building",
-    "pr": 8,
-    "updated_at": "2026-11-05T07:51:46Z"
   }
 ]
