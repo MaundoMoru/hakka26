@@ -200,5 +200,15 @@
     "status": "building",
     "pr": 4,
     "updated_at": "2026-11-05T07:49:20Z"
+  },
+  {
+    "team": "uzski-corp",
+    "score": null,
+    "breakdown": null,
+    "graded_at": null,
+    "flags": [],
+    "status": "building",
+    "pr": 13,
+    "updated_at": "2026-11-05T08:11:59Z"
   }
 ]
