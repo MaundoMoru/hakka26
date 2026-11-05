@@ -84,5 +84,15 @@
     "status": "building",
     "pr": 7,
     "updated_at": "2026-11-05T07:51:13Z"
+  },
+  {
+    "team": "otp-verify",
+    "score": null,
+    "breakdown": null,
+    "graded_at": null,
+    "flags": [],
+    "status": "building",
+    "pr": 8,
+    "updated_at": "2026-11-05T07:51:46Z"
   }
 ]
