@@ -108,6 +108,24 @@
     "stack": "android"
   },
   {
+    "team": "dsvishchov",
+    "score": 22,
+    "breakdown": {
+      "ac": 10,
+      "visual": 6,
+      "code": 3,
+      "build": 2,
+      "tests": 0,
+      "prompt": 1
+    },
+    "graded_at": "2026-11-05T08:17:32Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 12,
+    "updated_at": "2026-11-05T08:17:32Z",
+    "stack": "flutter"
+  },
+  {
     "team": "mambo",
     "score": 15,
     "breakdown": {
@@ -180,17 +198,6 @@
     "pr": 2,
     "updated_at": "2026-11-05T08:17:03Z",
     "stack": "unknown"
-  },
-  {
-    "team": "dsvishchov",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "grading",
-    "pr": 12,
-    "updated_at": "2026-11-05T08:17:14Z",
-    "stack": "flutter"
   },
   {
     "team": "kaimumutz",
