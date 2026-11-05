@@ -138,10 +138,10 @@
     },
     "graded_at": "2026-11-05T07:55:15Z",
     "flags": [],
-    "status": "building",
+    "status": "grading",
     "pr": 9,
-    "updated_at": "2026-11-05T07:57:06Z",
-    "stack": "unknown"
+    "updated_at": "2026-11-05T07:57:44Z",
+    "stack": "android"
   },
   {
     "team": "kkmurerwa",
