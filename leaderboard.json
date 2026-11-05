@@ -84,9 +84,9 @@
     },
     "graded_at": "2026-11-05T08:12:03Z",
     "flags": [],
-    "status": "building",
+    "status": "grading",
     "pr": 3,
-    "updated_at": "2026-11-05T08:15:16Z",
+    "updated_at": "2026-11-05T08:16:48Z",
     "stack": "android"
   },
   {
