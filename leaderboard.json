@@ -19,20 +19,20 @@
   },
   {
     "team": "mambo",
-    "score": 14,
+    "score": 15,
     "breakdown": {
-      "ac": 3,
+      "ac": 4,
       "visual": 4,
       "code": 2,
       "build": 2,
       "tests": 2,
       "prompt": 1
     },
-    "graded_at": "2026-11-05T07:52:18Z",
+    "graded_at": "2026-11-05T07:55:42Z",
     "flags": [],
-    "status": "grading",
+    "status": "scored",
     "pr": 6,
-    "updated_at": "2026-11-05T07:55:30Z",
+    "updated_at": "2026-11-05T07:55:42Z",
     "stack": "android"
   },
   {
