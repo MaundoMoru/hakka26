@@ -73,22 +73,20 @@
   },
   {
     "team": "adhiambo",
-    "score": 5,
+    "score": 6,
     "breakdown": {
       "ac": 3,
       "visual": 0,
       "code": 2,
       "build": 0,
       "tests": 0,
-      "prompt": 0
+      "prompt": 1
     },
-    "graded_at": "2026-11-05T07:57:57Z",
-    "flags": [
-      "other"
-    ],
-    "status": "grading",
+    "graded_at": "2026-11-05T07:59:04Z",
+    "flags": [],
+    "status": "build_failed",
     "pr": 9,
-    "updated_at": "2026-11-05T07:58:52Z",
+    "updated_at": "2026-11-05T07:59:04Z",
     "stack": "android"
   },
   {
