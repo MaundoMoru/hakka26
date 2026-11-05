@@ -1,12 +1,20 @@
 [
   {
     "team": "netstate",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
+    "score": 0,
+    "breakdown": {
+      "ac": 0,
+      "visual": 0,
+      "code": 0,
+      "build": 0,
+      "tests": 0,
+      "prompt": 0
+    },
+    "graded_at": "2026-11-05T07:31:45Z",
     "flags": [],
-    "status": "building",
+    "status": "invalid",
     "pr": 2,
-    "updated_at": "2026-11-05T07:31:19Z"
+    "updated_at": "2026-11-05T07:31:45Z",
+    "stack": "unknown"
   }
 ]
