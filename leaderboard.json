@@ -54,6 +54,24 @@
     "stack": "flutter"
   },
   {
+    "team": "didahdx",
+    "score": 24,
+    "breakdown": {
+      "ac": 10,
+      "visual": 6,
+      "code": 3,
+      "build": 2,
+      "tests": 2,
+      "prompt": 1
+    },
+    "graded_at": "2026-11-05T08:06:47Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 11,
+    "updated_at": "2026-11-05T08:06:47Z",
+    "stack": "android"
+  },
+  {
     "team": "kenronei",
     "score": 23,
     "breakdown": {
@@ -162,17 +180,6 @@
     "pr": 8,
     "updated_at": "2026-11-05T07:52:08Z",
     "stack": "unknown"
-  },
-  {
-    "team": "didahdx",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "grading",
-    "pr": 11,
-    "updated_at": "2026-11-05T08:06:28Z",
-    "stack": "android"
   },
   {
     "team": "kkmurerwa",
