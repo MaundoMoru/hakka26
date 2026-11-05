@@ -1,5 +1,23 @@
 [
   {
+    "team": "josendungu",
+    "score": 24,
+    "breakdown": {
+      "ac": 10,
+      "visual": 6,
+      "code": 4,
+      "build": 2,
+      "tests": 2,
+      "prompt": 0
+    },
+    "graded_at": "2026-11-05T07:52:48Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 5,
+    "updated_at": "2026-11-05T07:52:48Z",
+    "stack": "flutter"
+  },
+  {
     "team": "mambo",
     "score": 14,
     "breakdown": {
@@ -70,17 +88,6 @@
     "pr": 8,
     "updated_at": "2026-11-05T07:52:08Z",
     "stack": "unknown"
-  },
-  {
-    "team": "josendungu",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "grading",
-    "pr": 5,
-    "updated_at": "2026-11-05T07:52:26Z",
-    "stack": "flutter"
   },
   {
     "team": "kenronei",
