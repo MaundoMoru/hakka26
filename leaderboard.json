@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "team": "netstate",
+    "score": null,
+    "breakdown": null,
+    "graded_at": null,
+    "flags": [],
+    "status": "building",
+    "pr": 2,
+    "updated_at": "2026-11-05T07:31:19Z"
+  }
+]
