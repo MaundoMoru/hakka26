@@ -72,6 +72,26 @@
     "stack": "android"
   },
   {
+    "team": "adhiambo",
+    "score": 5,
+    "breakdown": {
+      "ac": 3,
+      "visual": 0,
+      "code": 2,
+      "build": 0,
+      "tests": 0,
+      "prompt": 0
+    },
+    "graded_at": "2026-11-05T07:57:57Z",
+    "flags": [
+      "other"
+    ],
+    "status": "build_failed",
+    "pr": 9,
+    "updated_at": "2026-11-05T07:57:57Z",
+    "stack": "android"
+  },
+  {
     "team": "netstate",
     "score": 0,
     "breakdown": {
@@ -124,24 +144,6 @@
     "pr": 8,
     "updated_at": "2026-11-05T07:52:08Z",
     "stack": "unknown"
-  },
-  {
-    "team": "adhiambo",
-    "score": 0,
-    "breakdown": {
-      "ac": 0,
-      "visual": 0,
-      "code": 0,
-      "build": 0,
-      "tests": 0,
-      "prompt": 0
-    },
-    "graded_at": "2026-11-05T07:55:15Z",
-    "flags": [],
-    "status": "grading",
-    "pr": 9,
-    "updated_at": "2026-11-05T07:57:44Z",
-    "stack": "android"
   },
   {
     "team": "kkmurerwa",
