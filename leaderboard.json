@@ -120,10 +120,10 @@
     },
     "graded_at": "2026-11-05T07:39:42Z",
     "flags": [],
-    "status": "building",
+    "status": "grading",
     "pr": 3,
-    "updated_at": "2026-11-05T07:58:42Z",
-    "stack": "unknown"
+    "updated_at": "2026-11-05T08:01:25Z",
+    "stack": "android"
   },
   {
     "team": "otp-verify",
