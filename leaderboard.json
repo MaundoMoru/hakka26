@@ -71,9 +71,10 @@
     "breakdown": null,
     "graded_at": null,
     "flags": [],
-    "status": "building",
+    "status": "grading",
     "pr": 6,
-    "updated_at": "2026-11-05T07:49:36Z"
+    "updated_at": "2026-11-05T07:52:07Z",
+    "stack": "android"
   },
   {
     "team": "nashkim254",
