@@ -77,9 +77,10 @@
     "breakdown": null,
     "graded_at": null,
     "flags": [],
-    "status": "building",
+    "status": "grading",
     "pr": 5,
-    "updated_at": "2026-11-05T07:47:16Z"
+    "updated_at": "2026-11-05T07:52:26Z",
+    "stack": "flutter"
   },
   {
     "team": "kenronei",
