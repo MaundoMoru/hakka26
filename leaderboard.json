@@ -86,9 +86,9 @@
     "flags": [
       "other"
     ],
-    "status": "building",
+    "status": "grading",
     "pr": 9,
-    "updated_at": "2026-11-05T07:58:14Z",
+    "updated_at": "2026-11-05T07:58:52Z",
     "stack": "android"
   },
   {
