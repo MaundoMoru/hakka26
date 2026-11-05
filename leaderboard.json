@@ -1,5 +1,23 @@
 [
   {
+    "team": "mambo",
+    "score": 14,
+    "breakdown": {
+      "ac": 3,
+      "visual": 4,
+      "code": 2,
+      "build": 2,
+      "tests": 2,
+      "prompt": 1
+    },
+    "graded_at": "2026-11-05T07:52:18Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 6,
+    "updated_at": "2026-11-05T07:52:18Z",
+    "stack": "android"
+  },
+  {
     "team": "netstate",
     "score": 0,
     "breakdown": {
@@ -82,17 +100,6 @@
     "status": "building",
     "pr": 4,
     "updated_at": "2026-11-05T07:49:20Z"
-  },
-  {
-    "team": "mambo",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "grading",
-    "pr": 6,
-    "updated_at": "2026-11-05T07:52:07Z",
-    "stack": "android"
   },
   {
     "team": "nashkim254",
