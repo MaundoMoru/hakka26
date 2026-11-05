@@ -146,24 +146,6 @@
     "stack": "android"
   },
   {
-    "team": "netstate",
-    "score": 0,
-    "breakdown": {
-      "ac": 0,
-      "visual": 0,
-      "code": 0,
-      "build": 0,
-      "tests": 0,
-      "prompt": 0
-    },
-    "graded_at": "2026-11-05T07:31:45Z",
-    "flags": [],
-    "status": "building",
-    "pr": 2,
-    "updated_at": "2026-11-05T08:16:40Z",
-    "stack": "unknown"
-  },
-  {
     "team": "otp-verify",
     "score": 0,
     "breakdown": {
@@ -179,6 +161,24 @@
     "status": "invalid",
     "pr": 8,
     "updated_at": "2026-11-05T07:52:08Z",
+    "stack": "unknown"
+  },
+  {
+    "team": "netstate",
+    "score": 0,
+    "breakdown": {
+      "ac": 0,
+      "visual": 0,
+      "code": 0,
+      "build": 0,
+      "tests": 0,
+      "prompt": 0
+    },
+    "graded_at": "2026-11-05T08:17:03Z",
+    "flags": [],
+    "status": "invalid",
+    "pr": 2,
+    "updated_at": "2026-11-05T08:17:03Z",
     "stack": "unknown"
   },
   {
