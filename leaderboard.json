@@ -54,6 +54,24 @@
     "stack": "android"
   },
   {
+    "team": "emmanuelmuturia",
+    "score": 22,
+    "breakdown": {
+      "ac": 10,
+      "visual": 4,
+      "code": 3,
+      "build": 2,
+      "tests": 2,
+      "prompt": 1
+    },
+    "graded_at": "2026-11-05T08:01:54Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 3,
+    "updated_at": "2026-11-05T08:01:54Z",
+    "stack": "android"
+  },
+  {
     "team": "mambo",
     "score": 15,
     "breakdown": {
@@ -106,24 +124,6 @@
     "pr": 2,
     "updated_at": "2026-11-05T07:31:45Z",
     "stack": "unknown"
-  },
-  {
-    "team": "emmanuelmuturia",
-    "score": 0,
-    "breakdown": {
-      "ac": 0,
-      "visual": 0,
-      "code": 0,
-      "build": 0,
-      "tests": 0,
-      "prompt": 0
-    },
-    "graded_at": "2026-11-05T07:39:42Z",
-    "flags": [],
-    "status": "grading",
-    "pr": 3,
-    "updated_at": "2026-11-05T08:01:25Z",
-    "stack": "android"
   },
   {
     "team": "otp-verify",
