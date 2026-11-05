@@ -36,6 +36,24 @@
     "stack": "flutter"
   },
   {
+    "team": "sicario",
+    "score": 24,
+    "breakdown": {
+      "ac": 10,
+      "visual": 6,
+      "code": 3,
+      "build": 2,
+      "tests": 2,
+      "prompt": 1
+    },
+    "graded_at": "2026-11-05T08:04:15Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 10,
+    "updated_at": "2026-11-05T08:04:15Z",
+    "stack": "flutter"
+  },
+  {
     "team": "kenronei",
     "score": 23,
     "breakdown": {
@@ -162,16 +180,5 @@
     "status": "building",
     "pr": 4,
     "updated_at": "2026-11-05T07:49:20Z"
-  },
-  {
-    "team": "sicario",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "grading",
-    "pr": 10,
-    "updated_at": "2026-11-05T08:03:57Z",
-    "stack": "flutter"
   }
 ]
