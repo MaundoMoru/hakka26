@@ -141,8 +141,9 @@
     "breakdown": null,
     "graded_at": null,
     "flags": [],
-    "status": "building",
+    "status": "grading",
     "pr": 7,
-    "updated_at": "2026-11-05T07:51:13Z"
+    "updated_at": "2026-11-05T07:56:19Z",
+    "stack": "flutter"
   }
 ]
