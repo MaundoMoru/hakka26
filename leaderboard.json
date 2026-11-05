@@ -18,6 +18,24 @@
     "stack": "flutter"
   },
   {
+    "team": "kenronei",
+    "score": 23,
+    "breakdown": {
+      "ac": 9,
+      "visual": 6,
+      "code": 3,
+      "build": 2,
+      "tests": 2,
+      "prompt": 1
+    },
+    "graded_at": "2026-11-05T07:55:56Z",
+    "flags": [],
+    "status": "scored",
+    "pr": 4,
+    "updated_at": "2026-11-05T07:55:56Z",
+    "stack": "android"
+  },
+  {
     "team": "mambo",
     "score": 15,
     "breakdown": {
@@ -106,17 +124,6 @@
     "pr": 9,
     "updated_at": "2026-11-05T07:55:15Z",
     "stack": "unknown"
-  },
-  {
-    "team": "kenronei",
-    "score": null,
-    "breakdown": null,
-    "graded_at": null,
-    "flags": [],
-    "status": "grading",
-    "pr": 4,
-    "updated_at": "2026-11-05T07:55:33Z",
-    "stack": "android"
   },
   {
     "team": "kkmurerwa",
